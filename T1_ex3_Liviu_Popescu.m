@@ -1,3 +1,4 @@
+function ex3()
 N = 4;
     ts = 0.001;
     t = 0:ts:N;
