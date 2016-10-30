@@ -1,3 +1,4 @@
+function ex1()
 fs = 5000;
 t = 0:1/fs:100;
 
